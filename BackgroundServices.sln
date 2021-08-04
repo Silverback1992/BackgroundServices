@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackgroundServiceSkeletons", "BackgroundServiceSkeletons", "{323E917F-592F-4883-AB57-97D111C69CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsServiceSkeleton", "WindowsServiceSkeleton\WindowsServiceSkeleton.csproj", "{C163A136-475F-4E07-8912-9C8DA325FC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIleMoverWindowsService", "FIleMoverWindowsService\FIleMoverWindowsService.csproj", "{E2017FC6-9276-4E1A-B2C0-BD513E48217D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileMoverWorkerService", "FileMoverWorkerService\FileMoverWorkerService.csproj", "{80ADFE43-51D7-43AF-B0CA-64E192D1CAC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerServiceSkeleton", "WorkerServiceSkeleton\WorkerServiceSkeleton.csproj", "{45401B1E-A0AB-44DD-A634-E4A5CED8C80C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopshelfSkeleton", "TopshelfSkeleton\TopshelfSkeleton.csproj", "{9D07692A-537B-46B3-8164-87F2EBF343A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMoverTopshelf", "FileMoverTopshelf\FileMoverTopshelf.csproj", "{B5B48C31-2707-4A1E-BEC1-8CA66FA0FF60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6FE8AA16-158F-4073-8396-B9B8CE157EA1}"
+	ProjectSection(SolutionItems) = preProject
+		E:\NOTES.txt = E:\NOTES.txt
+		E:\ServicesTrainingNotes.txt = E:\ServicesTrainingNotes.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C163A136-475F-4E07-8912-9C8DA325FC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C163A136-475F-4E07-8912-9C8DA325FC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C163A136-475F-4E07-8912-9C8DA325FC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C163A136-475F-4E07-8912-9C8DA325FC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2017FC6-9276-4E1A-B2C0-BD513E48217D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2017FC6-9276-4E1A-B2C0-BD513E48217D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2017FC6-9276-4E1A-B2C0-BD513E48217D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2017FC6-9276-4E1A-B2C0-BD513E48217D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80ADFE43-51D7-43AF-B0CA-64E192D1CAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80ADFE43-51D7-43AF-B0CA-64E192D1CAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80ADFE43-51D7-43AF-B0CA-64E192D1CAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80ADFE43-51D7-43AF-B0CA-64E192D1CAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45401B1E-A0AB-44DD-A634-E4A5CED8C80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45401B1E-A0AB-44DD-A634-E4A5CED8C80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45401B1E-A0AB-44DD-A634-E4A5CED8C80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45401B1E-A0AB-44DD-A634-E4A5CED8C80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D07692A-537B-46B3-8164-87F2EBF343A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D07692A-537B-46B3-8164-87F2EBF343A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D07692A-537B-46B3-8164-87F2EBF343A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D07692A-537B-46B3-8164-87F2EBF343A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B48C31-2707-4A1E-BEC1-8CA66FA0FF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B48C31-2707-4A1E-BEC1-8CA66FA0FF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B48C31-2707-4A1E-BEC1-8CA66FA0FF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B48C31-2707-4A1E-BEC1-8CA66FA0FF60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C163A136-475F-4E07-8912-9C8DA325FC38} = {323E917F-592F-4883-AB57-97D111C69CBD}
+		{45401B1E-A0AB-44DD-A634-E4A5CED8C80C} = {323E917F-592F-4883-AB57-97D111C69CBD}
+		{9D07692A-537B-46B3-8164-87F2EBF343A0} = {323E917F-592F-4883-AB57-97D111C69CBD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFAD4D48-DC10-44E6-8C7D-C4B8AE016C71}
+	EndGlobalSection
+EndGlobal

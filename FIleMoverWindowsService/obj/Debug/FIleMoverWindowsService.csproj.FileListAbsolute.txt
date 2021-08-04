@@ -1,0 +1,16 @@
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\FIleMoverWindowsService.exe.config
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\FIleMoverWindowsService.exe
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\FIleMoverWindowsService.pdb
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\obj\Debug\FIleMoverWindowsService.csproj.AssemblyReference.cache
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\obj\Debug\FIleMoverWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\obj\Debug\FIleMoverWindowsService.exe
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\obj\Debug\FIleMoverWindowsService.pdb
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\obj\Debug\FIleMoverWindowsService.FileMover.resources
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\obj\Debug\FIleMoverWindowsService.ProjectInstaller.resources
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\obj\Debug\FIleMoverWindowsService.csproj.GenerateResource.cache
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\Serilog.dll
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\Serilog.xml
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\obj\Debug\FIleMoverWindowsService.csproj.CopyComplete

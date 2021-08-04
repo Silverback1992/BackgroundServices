@@ -1,0 +1,6 @@
+C:\Users\alin2\source\repos\BackgroundServices\WindowsServiceSkeleton\bin\Debug\WindowsServiceSkeleton.exe.config
+C:\Users\alin2\source\repos\BackgroundServices\WindowsServiceSkeleton\bin\Debug\WindowsServiceSkeleton.exe
+C:\Users\alin2\source\repos\BackgroundServices\WindowsServiceSkeleton\bin\Debug\WindowsServiceSkeleton.pdb
+C:\Users\alin2\source\repos\BackgroundServices\WindowsServiceSkeleton\obj\Debug\WindowsServiceSkeleton.csproj.CoreCompileInputs.cache
+C:\Users\alin2\source\repos\BackgroundServices\WindowsServiceSkeleton\obj\Debug\WindowsServiceSkeleton.exe
+C:\Users\alin2\source\repos\BackgroundServices\WindowsServiceSkeleton\obj\Debug\WindowsServiceSkeleton.pdb
