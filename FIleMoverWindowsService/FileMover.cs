@@ -25,7 +25,7 @@ namespace FIleMoverWindowsService
 
         protected override void OnStart(string[] args)
         {
-            //Debugger.Launch();
+            Debugger.Launch();
 
             Log.Logger = new LoggerConfiguration()
                 .WriteTo.File(ServiceConfiguration.LogFileFullName,
@@ -58,6 +58,7 @@ namespace FIleMoverWindowsService
         protected override void OnStop()
         {
             Log.Information("File Mover Windows Service stopped.");
+            _manualResetEvent.Set();
         }
     }
 }

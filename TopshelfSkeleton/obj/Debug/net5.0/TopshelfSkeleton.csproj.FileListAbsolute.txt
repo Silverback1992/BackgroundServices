@@ -22,3 +22,4 @@ C:\Users\alin2\source\repos\BackgroundServices\TopshelfSkeleton\obj\Debug\net5.0
 C:\Users\alin2\source\repos\BackgroundServices\TopshelfSkeleton\obj\Debug\net5.0\ref\TopshelfSkeleton.dll
 C:\Users\alin2\source\repos\BackgroundServices\TopshelfSkeleton\obj\Debug\net5.0\TopshelfSkeleton.pdb
 C:\Users\alin2\source\repos\BackgroundServices\TopshelfSkeleton\obj\Debug\net5.0\TopshelfSkeleton.genruntimeconfig.cache
+C:\Users\alin2\source\repos\BackgroundServices\TopshelfSkeleton\obj\Debug\net5.0\TopshelfSkeleton.csproj.AssemblyReference.cache

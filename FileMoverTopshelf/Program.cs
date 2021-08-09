@@ -66,6 +66,7 @@ namespace FileMoverTopshelf
         public bool Stop(HostControl hostControl)
         {
             Log.Information("Topshelf service stopped.");
+            _manualResetEvent.Set();
             return true;
         }
     }

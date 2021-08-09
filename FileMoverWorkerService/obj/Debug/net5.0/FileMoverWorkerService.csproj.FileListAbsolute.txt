@@ -28,3 +28,4 @@ C:\Users\alin2\source\repos\BackgroundServices\FileMoverWorkerService\bin\Debug\
 C:\Users\alin2\source\repos\BackgroundServices\FileMoverWorkerService\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
 C:\Users\alin2\source\repos\BackgroundServices\FileMoverWorkerService\bin\Debug\net5.0\Serilog.Sinks.Console.dll
 C:\Users\alin2\source\repos\BackgroundServices\FileMoverWorkerService\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\alin2\source\repos\BackgroundServices\FileMoverWorkerService\obj\Debug\net5.0\FileMoverWorkerService.csproj.AssemblyReference.cache

@@ -28,3 +28,18 @@ Affected parameters are:
    logfile = C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\FIleMoverWindowsService.InstallLog
    assemblypath = C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\FIleMoverWindowsService.exe
    logtoconsole = 
+Installing assembly 'C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\FIleMoverWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\FIleMoverWindowsService.InstallLog
+   assemblypath = C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\FIleMoverWindowsService.exe
+   logtoconsole = 
+Installing service FileMover Windows Service...
+Service FileMover Windows Service has been successfully installed.
+Creating EventLog source FileMover Windows Service in log Application...
+Committing assembly 'C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\FIleMoverWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\FIleMoverWindowsService.InstallLog
+   assemblypath = C:\Users\alin2\source\repos\BackgroundServices\FIleMoverWindowsService\bin\Debug\FIleMoverWindowsService.exe
+   logtoconsole = 
